@@ -12,5 +12,16 @@ mlflow==2.8.0
 optuna==3.4.0
 
 
+# Workflow Orchestration
+prefect==2.10.4
+httpx==0.24.1
+httpcore==0.17.3
+apprise==1.4.5
 griffe==0.36.0
-prefect==2.14.0
+asgi-lifespan==2.1.0
+
+# API Libraries
+fastapi==0.95.0
+uvicorn==0.21.0
+pydantic==1.10.7
+starlette==0.26.1
